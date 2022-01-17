@@ -1,0 +1,30 @@
+SMAP
+dashboard_jsp.java
+JSP
+*S JSP
+*F
++ 0 dashboard.jsp
+dashboard.jsp
++ 1 head_1.jsp
+./template/partials/head_1.jsp
++ 2 header_1.jsp
+./template/partials/header_1.jsp
++ 3 sidebar_1.jsp
+./template/partials/sidebar_1.jsp
++ 4 footer_1.jsp
+./template/partials/footer_1.jsp
++ 5 script_1.jsp
+./template/partials/script_1.jsp
+*L
+4,7:53
+5#1,13:60
+10#0,5:73
+5#2,150:78
+14#0,5:227
+5#3,73:232
+18#0,13:304
+5#4,13:317
+30#0,7:329
+5#5,11:336
+36#0,5:346
+*E
